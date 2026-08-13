@@ -1,7 +1,8 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins!");
-        System.out.println("Jenkins Build Successful!");
+       System.out.println("Hello from Jenkins!");
+       System.out.println("This is my second Jenkins build!");
+       System.out.println("Jenkins Build Successful!");
     }
 }
